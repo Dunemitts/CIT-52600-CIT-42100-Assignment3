@@ -7,6 +7,7 @@ NOTE: You will need to do some data preprocessing steps, such as data encoder an
 2. Given the bakery data set (Bakery.csv). please use association rule mining to identify the most valuable frequent item sets/item association rules that can help the business to create better business plans.  
 
 Please explain the criteria that are used to choose the valuable rules:
+
 Criteria for choosing valuable rules:
 1. High support: Rules with high support values (>0.05) are more likely to occur frequently in real transactions.
 2. High confidence: Rules with high confidence values (>0.7) indicate strong associations between items.
